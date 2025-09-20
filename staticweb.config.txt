@@ -1,0 +1,2 @@
+# Placeholder for reverse proxy guidance.
+# Serve frontend (built dist/) via IIS or nginx. All API calls proxy to /api -> backend.
